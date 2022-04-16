@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jacopo.b2016@gmail.com
+	name = jacopo belli
